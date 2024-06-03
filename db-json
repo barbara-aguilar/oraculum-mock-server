@@ -1,0 +1,114 @@
+{
+   "cards":[
+      {
+         "name":"O MAGO",
+         "image":"arcano1.jpg",
+         "description":"Dê início a algo novo com criatividade e foco."
+      },
+      {
+         "name":"A SACERDOTISA",
+         "image":"arcano2.jpg",
+         "description":"Ouça sua intuição e busque sabedoria interior."
+      },
+      {
+         "name":"A IMPERATRIZ",
+         "image":"arcano3.jpg",
+         "description":"Aproveite a abundância e a fertilidade ao seu redor."
+      },
+      {
+         "name":"O IMPERADOR",
+         "image":"arcano4.jpg",
+         "description":"Estabeleça limites e tome decisões com sabedoria."
+      },
+      {
+         "name":"O PAPA",
+         "image":"arcano5.jpg",
+         "description":"Busque conhecimento e siga seus valores."
+      },
+      {
+         "name":"OS ENAMORADOS",
+         "image":"arcano6.jpg",
+         "description":"Faça uma escolha difícil entre amor, paixão e razão."
+      },
+      {
+         "name":"O CARRO",
+         "image":"arcano7.jpg",
+         "description":"Assuma o controle do seu destino e alcance seus objetivos."
+      },
+      {
+         "name":"A JUSTIÇA",
+         "image":"arcano8.jpg",
+         "description":"Seja justo e equilibrado em suas ações."
+      },
+      {
+         "name":"O EREMITA",
+         "image":"arcano9.jpg",
+         "description":"Reflita, explore sua interioridade e encontre a si mesmo. "
+      },
+      {
+         "name":"A RODA DA FORTUNA",
+         "image":"arcano10.jpg",
+         "description":"Aceite as mudanças inesperadas da vida e aproveite as oportunidades."
+      },
+      {
+         "name":"A FORÇA",
+         "image":"arcano11.jpg",
+         "description":"Tenha coragem e controle suas emoções para superar desafios."
+      },
+      {
+         "name":"O HOMEM PENDURADO",
+         "image":"arcano12.jpg",
+         "description":"Sacrifique algo para alcançar um novo ponto de vista."
+      },
+      {
+         "name":"A MORTE",
+         "image":"arcano13.jpg",
+         "description":"Deixe o passado para trás e abra espaço para o novo. "
+      },
+      {
+         "name":"A TEMPERANÇA",
+         "image":"arcano14.jpg",
+         "description":"Pratique a moderação e encontre equilíbrio e harmonia em sua vida."
+      },
+      {
+         "name":"O DIABO",
+         "image":"arcano15.jpg",
+         "description":"Liberte-se de suas amarras e assuma o controle de sua vida. Resista às ilusões."
+      },
+      {
+         "name":"A TORRE",
+         "image":"arcano16.jpg",
+         "description":"Prepare-se para mudanças repentinas. Aceite a destruição para construir algo novo."
+      },
+      {
+         "name":"A ESTRELA",
+         "image":"arcano17.jpg",
+         "description":"Tenha esperança e confiança em um futuro melhor."
+      },
+      {
+         "name":"A LUA",
+         "image":"arcano18.jpg",
+         "description":"Confie em sua intuição e explore seu subconsciente, mas cuidado com as ilusões."
+      },
+      {
+         "name":"O SOL",
+         "image":"arcano19.jpg",
+         "description":"Aproveite a felicidade, a alegria e a vitalidade. "
+      },
+      {
+         "name":"O JULGAMENTO",
+         "image":"arcano20.jpg",
+         "description":"Perdoe o passado e siga em frente com um novo propósito."
+      },
+      {
+         "name":"O MUNDO",
+         "image":"arcano21.jpg",
+         "description":"Celebre a conclusão de uma jornada e prepare-se para um novo começo."
+      },
+      {
+         "name":"O LOUCO",
+         "image":"arcano22.jpg",
+         "description":"Aventure-se em novas possibilidades e abra-se para o desconhecido."
+      }
+   ]
+}
